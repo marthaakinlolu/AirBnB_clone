@@ -40,7 +40,7 @@ All the development and testing was run over an operating system Ubuntu 20.04 LT
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/DrRay22/AirBnB_clone.git
+git clone https://github.com/marthaakinlolu/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -252,10 +252,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ray Oshafi</summary>
     <summary>Martha Akinlolu</summary>
     <ul>
-    <li><a href="mailto:scengltd@gmail.com">e-mail</a></li>
     <li><a href="mailto:marthaakinlolu@gmail.com">e-mail</a></li>
     </ul>
 </details>
